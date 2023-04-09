@@ -1,7 +1,7 @@
 # CS6208_23sp DeepWalk
 This is the personal project of Li Jingshu in 23sp CS6208, taught by professor [Xavier Bresson](https://www.linkedin.com/in/xavier-bresson-738585b/).
 
-In this project, DeepWalk is reproduced.
+In this project, DeepWalk is reproduced. The random walk part and skipgram part are both reproduced and you can see them in ./utils/random_walk.py and ./utils/skipgram.py. The body of DeepWalk is in ./model/deepwalk.py.
 
 To run the code, just use the following command:
 
