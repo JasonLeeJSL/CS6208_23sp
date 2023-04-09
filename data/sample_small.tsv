@@ -1,0 +1,150 @@
+source	target	depth
+artificial neural network	adaline	1
+artificial neural network	autoencoder	1
+artificial neural network	bio-inspired computing	1
+artificial neural network	blue brain project	1
+artificial neural network	catastrophic interference	1
+artificial neural network	cognitive architecture	1
+artificial neural network	connectionist expert system	1
+artificial neural network	connectomics	1
+artificial neural network	large width limits of neural networks	1
+artificial neural network	neural gas	1
+artificial neural network	neural network software	1
+artificial neural network	optical neural network	1
+artificial neural network	parallel distributed processing	1
+artificial neural network	philosophy of artificial intelligence	1
+artificial neural network	recurrent neural networks	1
+artificial neural network	spiking neural network	1
+artificial neural network	tensor product network	1
+tensor product network	neural network	2
+spiking neural network	codi	2
+spiking neural network	cognitive architecture	2
+spiking neural network	cognitive map	2
+spiking neural network	cognitive computer	2
+spiking neural network	computational neuroscience	2
+spiking neural network	neural coding	2
+spiking neural network	neural correlate	2
+spiking neural network	neural decoding	2
+spiking neural network	neuroethology	2
+spiking neural network	neuroinformatics	2
+spiking neural network	models of neural computation	2
+spiking neural network	motion perception	2
+spiking neural network	systems neuroscience	2
+philosophy of artificial intelligence	ai takeover	2
+philosophy of artificial intelligence	artificial brain	2
+philosophy of artificial intelligence	artificial consciousness	2
+philosophy of artificial intelligence	artificial intelligence	2
+philosophy of artificial intelligence	artificial neural network	2
+philosophy of artificial intelligence	chatbot	2
+philosophy of artificial intelligence	computational theory of mind	2
+philosophy of artificial intelligence	computing machinery and intelligence	2
+philosophy of artificial intelligence	hubert dreyfus's views on artificial intelligence	2
+philosophy of artificial intelligence	existential risk from artificial general intelligence	2
+philosophy of artificial intelligence	functionalism (philosophy of mind)	2
+philosophy of artificial intelligence	multi-agent system	2
+philosophy of artificial intelligence	philosophy of computer science	2
+philosophy of artificial intelligence	philosophy of information	2
+philosophy of artificial intelligence	philosophy of mind	2
+philosophy of artificial intelligence	physical symbol system	2
+philosophy of artificial intelligence	simulated reality	2
+philosophy of artificial intelligence	superintelligence: paths, dangers, strategies	2
+philosophy of artificial intelligence	synthetic intelligence	2
+parallel distributed processing	associationism	2
+parallel distributed processing	artificial intelligence	2
+parallel distributed processing	behaviorism	2
+parallel distributed processing	catastrophic interference	2
+parallel distributed processing	calculus of relations	2
+parallel distributed processing	cybernetics	2
+parallel distributed processing	deep learning	2
+parallel distributed processing	eliminative materialism	2
+parallel distributed processing	feature integration theory	2
+parallel distributed processing	genetic algorithm	2
+parallel distributed processing	harmonic grammar	2
+parallel distributed processing	machine learning	2
+parallel distributed processing	pandemonium architecture	2
+parallel distributed processing	self-organizing map	2
+optical neural network	optical computing	2
+optical neural network	quantum neural network	2
+neural network software	ai accelerator	2
+neural network software	physical neural network	2
+neural network software	comparison of deep learning software	2
+neural network software	data mining	2
+neural network software	integrated development environment	2
+neural network software	logistic regression	2
+neural network software	memristor	2
+connectomics	dynamic functional connectivity	2
+connectomics	human connectome project	2
+connectomics	budapest reference connectome	2
+cognitive architecture	artificial brain	2
+cognitive architecture	artificial consciousness	2
+cognitive architecture	autonomous agent	2
+cognitive architecture	biologically inspired cognitive architectures	2
+cognitive architecture	blue brain project	2
+cognitive architecture	brain initiative	2
+cognitive architecture	cognitive architecture comparison	2
+cognitive architecture	cognitive computing	2
+cognitive architecture	cognitive science	2
+cognitive architecture	commonsense reasoning	2
+cognitive architecture	computer architecture	2
+cognitive architecture	conceptual space	2
+cognitive architecture	deep learning	2
+cognitive architecture	google brain	2
+cognitive architecture	image schema	2
+cognitive architecture	knowledge level	2
+cognitive architecture	neocognitron	2
+cognitive architecture	neural correlates of consciousness	2
+cognitive architecture	pandemonium architecture	2
+cognitive architecture	simulated reality	2
+cognitive architecture	social simulation	2
+cognitive architecture	unified theory of cognition	2
+cognitive architecture	never-ending language learning	2
+cognitive architecture	bayesian approaches to brain function	2
+cognitive architecture	open mind common sense	2
+blue brain project	artificial intelligence	2
+blue brain project	brain initiative	2
+blue brain project	codi	2
+blue brain project	cognitive architecture	2
+blue brain project	cognitive science	2
+blue brain project	google brain	2
+blue brain project	human brain project	2
+blue brain project	neuroinformatics	2
+blue brain project	noogenesis	2
+blue brain project	project joshua blue	2
+blue brain project	simulation argument	2
+blue brain project	simulated reality	2
+blue brain project	social simulation	2
+blue brain project	whole brain emulation	2
+bio-inspired computing	applications of artificial intelligence	2
+bio-inspired computing	artificial life	2
+bio-inspired computing	artificial neural network	2
+bio-inspired computing	behavior based robotics	2
+bio-inspired computing	bioinformatics	2
+bio-inspired computing	bionics	2
+bio-inspired computing	cognitive architecture	2
+bio-inspired computing	cognitive modeling	2
+bio-inspired computing	cognitive science	2
+bio-inspired computing	connectionism	2
+bio-inspired computing	digital morphogenesis	2
+bio-inspired computing	digital organism	2
+bio-inspired computing	evolutionary algorithm	2
+bio-inspired computing	evolutionary computation	2
+bio-inspired computing	fuzzy logic	2
+bio-inspired computing	gene expression programming	2
+bio-inspired computing	genetic algorithm	2
+bio-inspired computing	genetic programming	2
+bio-inspired computing	gerald edelman	2
+bio-inspired computing	janine benyus	2
+bio-inspired computing	learning classifier system	2
+bio-inspired computing	mark a. o'neill	2
+bio-inspired computing	mathematical biology	2
+bio-inspired computing	mathematical model	2
+bio-inspired computing	natural computation	2
+bio-inspired computing	neuroevolution	2
+bio-inspired computing	olaf sporns	2
+bio-inspired computing	organic computing	2
+bio-inspired computing	swarm intelligence	2
+bio-inspired computing	unconventional computing	2
+autoencoder	representation learning	2
+autoencoder	sparse dictionary learning	2
+autoencoder	deep learning	2
+adaline	multilayer perceptron	2
